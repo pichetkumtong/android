@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">profile</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="q1">niname</string>
+    <string name="q2">ice</string>
+    <string name="q3">subjec</string>
+    <string name="q4">Information Technology</string>
+    <string name="q5">id</string>
+    <string name="q6">55410593</string>
+    <string name="q7">phon</string>
+    <string name="q8">0901268932</string>
+
+</resources>
