@@ -31,37 +31,37 @@
         android:orientation="vertical" >
 
         <TextView
-            android:id="@+id/textView1"
+            android:id="@+id/tv1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="16dp"
             android:text="TextView" />
 
         <Button
-            android:id="@+id/button1"
+            android:id="@+id/tb1"
             android:layout_width="match_parent"
             android:layout_height="68dp"
             android:text="Edit Profile" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/tb2"
             android:layout_width="127dp"
             android:layout_height="64dp"
             android:text="View Image" />
     </LinearLayout>
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/tv3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/textView2"
-        android:layout_alignLeft="@+id/textView5"
+        android:layout_alignBottom="@+id/tv2"
+        android:layout_alignLeft="@+id/tv5"
         android:layout_alignRight="@+id/LinearLayout1"
-        android:layout_alignTop="@+id/textView2"
+        android:layout_alignTop="@+id/tv2"
         android:text="@string/q2" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/tv2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
@@ -69,55 +69,55 @@
         android:text="@string/q1" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/tv4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignRight="@+id/textView2"
-        android:layout_below="@+id/textView2"
+        android:layout_alignRight="@+id/tv2"
+        android:layout_below="@+id/tv2"
         android:layout_marginTop="34dp"
         android:text="@string/q3" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/tv5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/textView4"
+        android:layout_alignBottom="@+id/tv4"
         android:layout_toRightOf="@+id/linearLayout2"
         android:text="@string/q4" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/tv6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/textView4"
-        android:layout_below="@+id/textView4"
+        android:layout_alignLeft="@+id/tv4"
+        android:layout_below="@+id/tv4"
         android:layout_marginTop="36dp"
         android:text="@string/q5" />
 
     <TextView
-        android:id="@+id/textView7"
+        android:id="@+id/tv7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/textView6"
-        android:layout_alignBottom="@+id/textView6"
-        android:layout_alignLeft="@+id/textView5"
+        android:layout_alignBaseline="@+id/tv6"
+        android:layout_alignBottom="@+id/tv6"
+        android:layout_alignLeft="@+id/tv5"
         android:text="@string/q6" />
 
     <TextView
-        android:id="@+id/textView8"
+        android:id="@+id/tv8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/textView6"
-        android:layout_below="@+id/textView6"
+        android:layout_alignLeft="@+id/tv6"
+        android:layout_below="@+id/tv6"
         android:layout_marginTop="27dp"
         android:text="@string/q7" />
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/tv9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/textView8"
-        android:layout_alignBottom="@+id/textView8"
+        android:layout_alignBaseline="@+id/tv8"
+        android:layout_alignBottom="@+id/tv8"
         android:layout_toRightOf="@+id/linearLayout2"
         android:text="@string/q8" />
 
